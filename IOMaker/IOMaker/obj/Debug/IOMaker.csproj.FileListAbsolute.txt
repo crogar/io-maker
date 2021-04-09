@@ -1,0 +1,45 @@
+C:\Users\jich-\Desktop\IOMaker\IOMaker\bin\Debug\IOMaker.exe.config
+C:\Users\jich-\Desktop\IOMaker\IOMaker\bin\Debug\IOMaker.exe
+C:\Users\jich-\Desktop\IOMaker\IOMaker\bin\Debug\IOMaker.pdb
+C:\Users\jich-\Desktop\IOMaker\IOMaker\obj\Debug\IOMaker.csprojResolveAssemblyReference.cache
+C:\Users\jich-\Desktop\IOMaker\IOMaker\obj\Debug\IOMaker.Form1.resources
+C:\Users\jich-\Desktop\IOMaker\IOMaker\obj\Debug\IOMaker.Properties.Resources.resources
+C:\Users\jich-\Desktop\IOMaker\IOMaker\obj\Debug\IOMaker.csproj.GenerateResource.Cache
+C:\Users\jich-\Desktop\IOMaker\IOMaker\obj\Debug\IOMaker.exe
+C:\Users\jich-\Desktop\IOMaker\IOMaker\obj\Debug\IOMaker.pdb
+C:\Users\jich-\Desktop\IOMaker\IOMaker\obj\Debug\IOMaker.Form2.resources
+C:\Users\jich-\Desktop\IOMaker\IOMaker\obj\Debug\IOMaker.Metodo.resources
+C:\Users\jich-\Desktop\IOMaker\IOMaker\obj\Debug\IOMaker.Simplex.resources
+C:\Users\jich-\Desktop\Proyectos Visual Studio\IOMaker\IOMaker\bin\Debug\IOMaker.exe.config
+C:\Users\jich-\Desktop\Proyectos Visual Studio\IOMaker\IOMaker\obj\Debug\IOMaker.exe
+C:\Users\jich-\Desktop\Proyectos Visual Studio\IOMaker\IOMaker\obj\Debug\IOMaker.pdb
+C:\Users\jich-\Desktop\Proyectos Visual Studio\IOMaker\IOMaker\bin\Debug\IOMaker.exe
+C:\Users\jich-\Desktop\Proyectos Visual Studio\IOMaker\IOMaker\bin\Debug\IOMaker.pdb
+C:\Users\jich-\Desktop\Proyectos Visual Studio\IOMaker\IOMaker\obj\Debug\IOMaker.csprojResolveAssemblyReference.cache
+C:\Users\jich-\Desktop\Proyectos Visual Studio\IOMaker\IOMaker\obj\Debug\IOMaker.Form1.resources
+C:\Users\jich-\Desktop\Proyectos Visual Studio\IOMaker\IOMaker\obj\Debug\IOMaker.Form2.resources
+C:\Users\jich-\Desktop\Proyectos Visual Studio\IOMaker\IOMaker\obj\Debug\IOMaker.Metodo.resources
+C:\Users\jich-\Desktop\Proyectos Visual Studio\IOMaker\IOMaker\obj\Debug\IOMaker.Properties.Resources.resources
+C:\Users\jich-\Desktop\Proyectos Visual Studio\IOMaker\IOMaker\obj\Debug\IOMaker.csproj.GenerateResource.Cache
+C:\Users\jich-\Desktop\Proyectos Visual Studio\IOMaker\IOMaker\obj\Debug\IOMaker.Simplex.resources
+C:\Users\jich-\Desktop\Proyectos Visual Studio\IOMaker\IOMaker\obj\Debug\IOMaker.DobleFase.resources
+C:\Users\jich-\Desktop\Proyectos Visual Studio\IOMaker\IOMaker\bin\Debug\info.lundin.Math.dll
+C:\Users\jich-\Desktop\Proyectos Visual Studio\IOMaker\IOMaker\obj\Debug\IOMaker.Grafico.resources
+C:\Users\jich-\Desktop\Proyectos Visual Studio\IOMaker\IOMaker\obj\Debug\IOMaker.Mgrande.resources
+C:\Users\jich-\Desktop\IOMaker\IOMaker\IOMaker\bin\Debug\IOMaker.exe.config
+C:\Users\jich-\Desktop\IOMaker\IOMaker\IOMaker\bin\Debug\IOMaker.exe
+C:\Users\jich-\Desktop\IOMaker\IOMaker\IOMaker\bin\Debug\IOMaker.pdb
+C:\Users\jich-\Desktop\IOMaker\IOMaker\IOMaker\obj\Debug\IOMaker.csprojAssemblyReference.cache
+C:\Users\jich-\Desktop\IOMaker\IOMaker\IOMaker\obj\Debug\IOMaker.DobleFase.resources
+C:\Users\jich-\Desktop\IOMaker\IOMaker\IOMaker\obj\Debug\IOMaker.Form1.resources
+C:\Users\jich-\Desktop\IOMaker\IOMaker\IOMaker\obj\Debug\IOMaker.Form2.resources
+C:\Users\jich-\Desktop\IOMaker\IOMaker\IOMaker\obj\Debug\IOMaker.Grafico.resources
+C:\Users\jich-\Desktop\IOMaker\IOMaker\IOMaker\obj\Debug\IOMaker.Metodo.resources
+C:\Users\jich-\Desktop\IOMaker\IOMaker\IOMaker\obj\Debug\IOMaker.Mgrande.resources
+C:\Users\jich-\Desktop\IOMaker\IOMaker\IOMaker\obj\Debug\IOMaker.Properties.Resources.resources
+C:\Users\jich-\Desktop\IOMaker\IOMaker\IOMaker\obj\Debug\IOMaker.Simplex.resources
+C:\Users\jich-\Desktop\IOMaker\IOMaker\IOMaker\obj\Debug\IOMaker.csproj.GenerateResource.cache
+C:\Users\jich-\Desktop\IOMaker\IOMaker\IOMaker\obj\Debug\IOMaker.csproj.CopyComplete
+C:\Users\jich-\Desktop\IOMaker\IOMaker\IOMaker\obj\Debug\IOMaker.exe
+C:\Users\jich-\Desktop\IOMaker\IOMaker\IOMaker\obj\Debug\IOMaker.pdb
+C:\Users\jich-\Desktop\IOMaker\IOMaker\IOMaker\obj\Debug\IOMaker.csproj.CoreCompileInputs.cache
